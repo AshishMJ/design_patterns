@@ -1,7 +1,7 @@
-package command.robot.controller;
+package command.robot_controller;
 
-import command.robot.controller.enums.RobotAction;
-import command.robot.controller.model.Robot;
+import command.robot_controller.enums.RobotAction;
+import command.robot_controller.model.Robot;
 import org.junit.Test;
 
 public class TestRobotController {

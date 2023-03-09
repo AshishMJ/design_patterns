@@ -1,6 +1,6 @@
-package command.robot.controller.core;
+package command.robot_controller.core;
 
-import command.robot.controller.model.Robot;
+import command.robot_controller.model.Robot;
 
 public interface RobotCommand {
     void execute();

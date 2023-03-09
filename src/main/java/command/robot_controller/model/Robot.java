@@ -1,7 +1,7 @@
-package command.robot.controller.model;
+package command.robot_controller.model;
 
-import command.robot.controller.enums.Direction;
-import command.robot.controller.enums.Mode;
+import command.robot_controller.enums.Direction;
+import command.robot_controller.enums.Mode;
 import lombok.Getter;
 import lombok.Setter;
 

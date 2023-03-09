@@ -1,4 +1,4 @@
-package command.robot.controller.model;
+package command.robot_controller.model;
 
 import lombok.Getter;
 import lombok.Setter;

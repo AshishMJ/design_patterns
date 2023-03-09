@@ -1,7 +1,7 @@
-package command.robot.controller.core;
+package command.robot_controller.core;
 
-import command.robot.controller.enums.Direction;
-import command.robot.controller.model.Position;
+import command.robot_controller.enums.Direction;
+import command.robot_controller.model.Position;
 
 public class MoveForward extends AbstractRobotCommand {
 

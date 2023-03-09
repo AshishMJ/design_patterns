@@ -1,10 +1,10 @@
-package command.robot.controller.factory;
+package command.robot_controller.factory;
 
-import command.robot.controller.exceptions.ActionNotFoundException;
-import command.robot.controller.core.MoveBackward;
-import command.robot.controller.core.MoveForward;
-import command.robot.controller.core.RobotCommand;
-import command.robot.controller.enums.RobotAction;
+import command.robot_controller.exceptions.ActionNotFoundException;
+import command.robot_controller.core.MoveBackward;
+import command.robot_controller.core.MoveForward;
+import command.robot_controller.core.RobotCommand;
+import command.robot_controller.enums.RobotAction;
 
 public class RobotCommandFactory {
 

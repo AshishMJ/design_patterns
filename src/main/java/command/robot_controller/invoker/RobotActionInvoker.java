@@ -1,6 +1,6 @@
-package command.robot.controller.invoker;
+package command.robot_controller.invoker;
 
-import command.robot.controller.core.RobotCommand;
+import command.robot_controller.core.RobotCommand;
 
 public class RobotActionInvoker {
 

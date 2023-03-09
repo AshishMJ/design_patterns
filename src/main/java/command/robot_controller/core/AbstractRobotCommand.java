@@ -1,7 +1,7 @@
-package command.robot.controller.core;
+package command.robot_controller.core;
 
-import command.robot.controller.enums.Mode;
-import command.robot.controller.model.Robot;
+import command.robot_controller.enums.Mode;
+import command.robot_controller.model.Robot;
 
 public abstract class AbstractRobotCommand implements RobotCommand {
     protected Robot robot;

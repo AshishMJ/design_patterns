@@ -1,11 +1,11 @@
-package command.robot.controller;
+package command.robot_controller;
 
-import command.robot.controller.core.RobotCommand;
-import command.robot.controller.enums.Mode;
-import command.robot.controller.enums.RobotAction;
-import command.robot.controller.factory.RobotCommandFactory;
-import command.robot.controller.invoker.RobotActionInvoker;
-import command.robot.controller.model.Robot;
+import command.robot_controller.core.RobotCommand;
+import command.robot_controller.enums.Mode;
+import command.robot_controller.enums.RobotAction;
+import command.robot_controller.factory.RobotCommandFactory;
+import command.robot_controller.invoker.RobotActionInvoker;
+import command.robot_controller.model.Robot;
 
 import java.util.Stack;
 
